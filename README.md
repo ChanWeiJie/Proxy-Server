@@ -8,7 +8,7 @@ Steps to run proxy server
 
 
 2. With the desired port set, make sure the network settings on Mozilla Firefox is set to the following,
-    * HTTP IP proxy : <The ip address of the platform hosting the proxy server> 
+    * HTTP IP proxy : The ip address of the platform hosting the proxy server
     * Port Number : desired port (Note that the desired port number should be > 1024 and <= 65535)
 
 3. Use “Ctrl + C”, to stop the proxy server from running.
