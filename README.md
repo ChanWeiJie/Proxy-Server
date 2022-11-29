@@ -13,4 +13,4 @@ Steps to run proxy server
 
 3. Use “Ctrl + C”, to stop the proxy server from running.
 
-On top of being a proxy server that forwards html request and replies between host and actual web servers. The code also allows for the calculations of telemetry of a webpage and do not that the proxy server is written with multi-threading.
+On top of being a proxy server that forwards html request and replies between host and actual web servers. The code also allows for the calculations of telemetry of a webpage and do note that the proxy server is written with multi-threading.
